@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nostalgic-css/NES.css.git"
+    "url": "https://github.com/PolyMeme/NES.css.git"
   },
   "keywords": [
     "css",
@@ -39,9 +39,6 @@
     "nes",
     "framework"
   ],
-  "engines": {
-    "node": ">=10.0.0"
-  },
   "author": "BcRikko (https://github.com/Bcrikko)",
   "license": "MIT",
   "bugs": {
